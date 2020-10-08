@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# Welcome to HT(Happyiness Team) Pages
 
-You can use the [editor on GitHub](https://github.com/SJZDWK/happiness_team.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We chose Scoliosis Detection via X-ray Photo Recognition as the experimental subject.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The module we are responsible for is the server side. In fact, you can think of a server as an interface that integrates all functions. 
 
-### Markdown
+Since our work does not involve algorithms, if you want to challenge difficult topics, please choose to cooperate with other teams. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Latest news
+    Date       Participant   Finished work
+    2020/10/7  Weikang DU    Add website pictrure
+    2020/10/7  Shizhe LIU    Add a new column
+
+### Group Numbers
+
+Our group members are not a top group compared to other groups. However, all of us have a sense of responsibility and confidence to do everything well. 
+
+All the people in our group have an optimistic and positive attitude, so this is why our group is called happiness team. 
 
 ```markdown
-Syntax highlighted code block
+Here is an introduction to our group numbers
 
-# Header 1
-## Header 2
-### Header 3
+# Weikang Du - PM & RA
+He is a senior in Software College of Jilin University. His interests include machine learning and artifical intelligence.
 
-- Bulleted
-- List
+He wants to study abroad and study artificial intelligence. At present, he is trying to learn English. 
 
-1. Numbered
-2. List
+- Characteristic
+1. Handsome
+2. easygoing
+3. humble
+4. outgoing
 
-**Bold** and _Italic_ and `Code` text
+# Shizhe Liu - PM & Liason
 
-[Link](url) and ![Image](src)
+He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
+
+He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
+
+- Characteristic
+1. easygoing
+2. responsible
+3. optimistic
+
+# Kedong Xiu - Coder & Tester
+He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
+
+- Characteristic
+1. Strong learning ability
+2. tall
+
+# Yuzhe Chen - Coder & Tester
+He is a senior in Software College of Jilin University. He will go to the Institute of network research of Chinese Academy of Sciences for further study. 
+
+- Characteristic
+1. funny
+
+# Di An - SA
+He is a senior in Software College of Jilin University. He plans to study in Japan. He is full of interest in Japanese culture. 
+
+- Characteristic
+1. modest
+2. Strong self-study ability 
+
 ```
+### Actual team gantt
+<img src="/PHOTO.jpg" width="100%">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact us
 
-### Jekyll Themes
+If you are interested in the subject of our group, please contact us. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SJZDWK/happiness_team.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Please mainly communicate with our project manager, they are Weikang DU and Shizhe LIU 
 
-### Support or Contact
+Weikang DU : 592262731@qq.com or duwk5517@mails.jlu.edu.cn  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Shizhe LIU : 2414946247@qq.com or liusz5517@mails.jlu.edu.cn 
+
+Kedong XIU : 1226448285@qq.com
+
+Yuzhe CHEN : 1059496154@qq.com
+
+Di AN : 255696@qq.com
+
+### More infomation
+
+This website may not look good, but it doesn't mean that our team members are not excellent. 
+In fact, our group members have a strong learning ability and sense of responsibility, which is a trustworthy team. 
